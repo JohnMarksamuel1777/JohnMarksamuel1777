@@ -42,7 +42,7 @@ Barbados, Caribbean
 ---
 
 ## 🤝 Open To
-Collaboration on EdTech, digital transformation, and backend system development projects.
+Collaboration on EdTech, digital transformation, and fullstack system development projects.
 
 
 
